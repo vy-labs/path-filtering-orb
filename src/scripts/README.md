@@ -29,7 +29,7 @@ steps:
 ```shell
 # scripts/greet.sh
 Greet() {
-    echo Hello ${PARAM_TO}
+    echo Hello vy-labs ${PARAM_TO}
 }
 
 # Will not run if sourced from another script. This is done so this script may be tested.
